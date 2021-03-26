@@ -1,5 +1,5 @@
 {
-  "name": "mautic/citrix",
+  "name": "mautic/plugin-citrix",
   "description": "Citrix Plugin",
   "type": "mautic-plugin",
   "version": "1.0",
